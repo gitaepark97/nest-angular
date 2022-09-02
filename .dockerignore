@@ -1,0 +1,9 @@
+# compiled output
+api/dist
+api/node_modules
+
+pgdata
+.env
+
+# OS
+api/.DS_Store
